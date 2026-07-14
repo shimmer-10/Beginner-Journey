@@ -2,11 +2,13 @@
 
 ## Topics
 |   Topic   |   Question Practiced  |   Revised    |
-|   Two Pointers  |   0    |   0   |
-|   Sliding Window    |   1    |   0    |
+|   Two Pointers  |   1    |   0   |
+|   Sliding Window    |   2    |   0    |
 |   Hashing   |   1    |   0    |
 
 
 ## Problems Covered
 - 001. Two Sum
-- Maximum Sum Subarray of Size k  
+- Maximum Sum Subarray of Size k
+- 283. Move Zeroes
+- 2461. Maximum Sum of Distinct Subarray with Length k
