@@ -22,6 +22,7 @@ Time Complexity:O(n)
 Space Complexity:O(k)
 '''
 
+#Code
 def max_sum_of_distinct_subarray_with_length_k(nums,k):
     win_s=0
     max_s=0
