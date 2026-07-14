@@ -18,11 +18,11 @@ Return the maximum subarray sum of all the subarrays that meet the conditions. I
 7.If len(freq)==k
     update answer
 
-Time Complexity:
-Space Complexity:
+Time Complexity:O(n)
+Space Complexity:O(k)
 '''
 
-def max_sum_of_distinct_subarrays_with_length_k(nums,k):
+def max_sum_of_distinct_subarray_with_length_k(nums,k):
     win_s=0
     max_s=0
     freq={}
@@ -49,4 +49,4 @@ def max_sum_of_distinct_subarrays_with_length_k(nums,k):
     
 arr=list(map(int,input("Enter Array: ").split(',')))
 k=int(input("Enter length of subarray: "))
-print(max_sum_of_distinct_subarrays_with_length_k(arr,k))
+print(max_sum_of_distinct_subarray_with_length_k(arr,k))
