@@ -3,7 +3,7 @@
 ## Topics
 |   Topic   |   Question Practiced  |   Revised    |
 |   Two Pointers  |   2    |   0   |
-|   Sliding Window    |   2    |   0    |
+|   Sliding Window    |   3    |   0    |
 |   Hashing   |   1    |   0    |
 
 
@@ -13,3 +13,4 @@
 - 283. Move Zeroes
 - 2461. Maximum Sum of Distinct Subarray with Length k
 - 15. 3Sum
+- 485. Max Consecutive Sum
