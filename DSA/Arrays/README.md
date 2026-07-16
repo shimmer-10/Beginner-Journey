@@ -2,9 +2,9 @@
 
 ## Topics
 |   Topic   |   Question Practiced  |   Revised    |
-|   Two Pointers  |   2    |   0   |
-|   Sliding Window    |   3    |   0    |
-|   Hashing   |   1    |   0    |
+|   Two Pointers  |   2    |   1   |
+|   Sliding Window    |   3    |   1    |
+|   Hashing   |   1    |   1    |
 
 
 ## Problems Covered
