@@ -2,7 +2,7 @@
 
 ## Topics
 |   Topic   |   Question Practiced  |   Revised    |
-|   Two Pointers  |   3   |   1   |
+|   Two Pointers  |   4   |   1   |
 |   Sliding Window    |   3    |   1    |
 |   Hashing   |   1    |   1    |
 
@@ -15,3 +15,4 @@
 - 15. 3Sum
 - 485. Max Consecutive Sum
 - 11. Container with most water
+- 344. Reverse String
