@@ -4,6 +4,7 @@
 |   Topic   |   Question Practiced  |   Revised    |
 |   Two Pointers  |   5   |   1   |
 |   Sliding Window    |   4    |   1    |
+|   Prefix Sum    |    1    |    0    |
 |   Hashing   |   1    |   1    |
 
 
@@ -19,3 +20,4 @@
 - 344. Reverse String
 - 75. Sort Colors 
 - 1004. Max Consecutive Ones III
+- 1480. Running Sum of 1D Array 
