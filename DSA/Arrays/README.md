@@ -6,6 +6,7 @@
 |   Sliding Window    |   4    |   1    |
 |   Prefix Sum    |    1    |    0    |
 |   Hashing   |   1    |   1    |
+|   Other    |    1    |    0    |
 
 
 ## Problems Covered
