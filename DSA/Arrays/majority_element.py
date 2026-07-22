@@ -26,3 +26,6 @@ def MajorityElement(nums):
         else :
             count -= 1
     return candidate
+
+arr=list(map(int,input("Enter Array : ").split(',')))
+print(MajorityElement(arr))
