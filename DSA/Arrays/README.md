@@ -6,7 +6,7 @@
 |   Sliding Window    |   4    |   1    |
 |   Prefix Sum    |    1    |    0    |
 |   Hashing   |   1    |   1    |
-|   Other    |    1    |    0    |
+|   Other    |    2    |    0    |
 
 
 ## Problems Covered
@@ -22,3 +22,4 @@
 - 75. Sort Colors 
 - 1004. Max Consecutive Ones III
 - 1480. Running Sum of 1D Array 
+- 136. Single Number
