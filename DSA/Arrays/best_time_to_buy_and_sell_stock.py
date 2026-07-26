@@ -5,7 +5,8 @@ Return the maximum profit you can achieve from this transaction. If you cannot a
 '''
 #Approach
 '''
-
+Maintain the minimum buying price seen so far.
+For each price, compute the profit if sold today and update the maximum profit.
 
 Time Complexity:O(n)
 Space Complexity:O(1)
