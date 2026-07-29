@@ -2,7 +2,7 @@
 
 ## Topics
 |   Topic   |   Question Practiced  |   Revised    |
-|   Two Pointers  |   6   |   1   |
+|   Two Pointers  |   5   |   1   |
 |   Sliding Window    |   5   |   1    |
 |   Prefix Sum    |    1    |    0    |
 |   Hashing   |   1    |   1    |
