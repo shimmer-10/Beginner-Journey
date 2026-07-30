@@ -2,7 +2,7 @@
 
 ## Topics
 |   Topic   |   Question Practiced  |   Revised    |
-|   Baisc Operations  |   2   |   0   |
+|   Baisc Operations  |   3   |   0   |
 |   Two Pointer    |    2    |    0    |
 
 
@@ -11,3 +11,4 @@
 - 876. Middle of Linked List
 - 206. Reverse Linked List
 - 141. Linked List Cycle
+- 83. Remove Duplicates from Linked List
