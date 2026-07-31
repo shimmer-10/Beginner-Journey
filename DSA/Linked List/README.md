@@ -3,7 +3,7 @@
 ## Topics
 |   Topic   |   Question Practiced  |   Revised    |
 |   Baisc Operations  |   3   |   0   |
-|   Two Pointer    |    2    |    0    |
+|   Two Pointer    |    3    |    0    |
 
 
 ## Problems Covered
@@ -12,3 +12,4 @@
 - 206. Reverse Linked List
 - 141. Linked List Cycle
 - 83. Remove Duplicates from Linked List
+- 160. Intersection of Two Linked List
