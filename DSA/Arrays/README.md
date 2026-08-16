@@ -4,7 +4,7 @@
 |   Topic   |   Question Practiced  |   Revised    |
 |   Two Pointers  |   5   |   1   |
 |   Sliding Window    |   5   |   1    |
-|   Prefix Sum    |    2    |    0    |
+|   Prefix Sum    |    3    |    0    |
 |   Hashing   |   1    |   1    |
 |   Other    |    3    |    1    |
 
@@ -26,3 +26,4 @@
 - 121. Best Time to Buy and Sell Stocks
 - 713. Subarray Product Less Than k
 - 724. Find Pivot Index
+- 1732. Find Highest Altitude
