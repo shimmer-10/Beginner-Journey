@@ -5,6 +5,7 @@
 |   Two Pointers  |   5   |   1   |
 |   Sliding Window    |   5   |   1    |
 |   Prefix Sum    |    3    |    0    |
+|   Kadane's Algorithm    |    1    |    0    |
 |   Hashing   |   1    |   1    |
 |   Other    |    3    |    1    |
 
@@ -27,3 +28,4 @@
 - 713. Subarray Product Less Than k
 - 724. Find Pivot Index
 - 1732. Find Highest Altitude
+- 53. Maximum Subarray
